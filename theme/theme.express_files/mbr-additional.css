@@ -1,0 +1,30 @@
+#menu-12 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-12.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-12.mbr-navbar--auto-collapse.mbr-navbar--open .mbr-navbar__menu {
+  background: #2c2c2c;
+}
+#menu-12 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header8-20 .sub-form h5 {
+  background: #3498db;
+}
+#msg-box5-22 .panel-body {
+  background-color: #ffffff;
+}
+#content1-34 .service-content span {
+  color: #3498DB;
+  border: 2px solid #3498DB;
+}
+#content1-34 .service-content:hover span {
+  background-color: #3498DB;
+  border: 2px solid #3498DB;
+  color: white;
+}
+#content4-35 .container i {
+  background-color: #3498DB;
+}
